@@ -1,0 +1,30 @@
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.exe
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.csprojAssemblyReference.cache
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.AssemblyInfoInputs.cache
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.AssemblyInfo.cs
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.deps.json
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.runtimeconfig.json
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.runtimeconfig.dev.json
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.dll
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.pdb
+D:\TestManual\TestManual\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.csproj.CoreCompileInputs.cache
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.csproj.CopyComplete
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.dll
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.pdb
+D:\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.genruntimeconfig.cache
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.exe
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.deps.json
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.runtimeconfig.json
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.runtimeconfig.dev.json
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.dll
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\TestManual.pdb
+D:\manual project\TestManual\TestManual\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.csprojAssemblyReference.cache
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.AssemblyInfoInputs.cache
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.AssemblyInfo.cs
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.csproj.CoreCompileInputs.cache
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.csproj.CopyComplete
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.dll
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.pdb
+D:\manual project\TestManual\TestManual\obj\Debug\netcoreapp3.1\TestManual.genruntimeconfig.cache

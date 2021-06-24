@@ -1,0 +1,26 @@
+D:\manual project\modifyText\modifyText\bin\Debug\netcoreapp3.1\modifyText.exe
+D:\manual project\modifyText\modifyText\bin\Debug\netcoreapp3.1\modifyText.deps.json
+D:\manual project\modifyText\modifyText\bin\Debug\netcoreapp3.1\modifyText.runtimeconfig.json
+D:\manual project\modifyText\modifyText\bin\Debug\netcoreapp3.1\modifyText.runtimeconfig.dev.json
+D:\manual project\modifyText\modifyText\bin\Debug\netcoreapp3.1\modifyText.dll
+D:\manual project\modifyText\modifyText\bin\Debug\netcoreapp3.1\modifyText.pdb
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.csprojAssemblyReference.cache
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.AssemblyInfoInputs.cache
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.AssemblyInfo.cs
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.csproj.CoreCompileInputs.cache
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.dll
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.pdb
+D:\manual project\modifyText\modifyText\obj\Debug\netcoreapp3.1\modifyText.genruntimeconfig.cache
+D:\manual project\modifyText - Copy\modifyText\bin\Debug\netcoreapp3.1\modifyText.exe
+D:\manual project\modifyText - Copy\modifyText\bin\Debug\netcoreapp3.1\modifyText.deps.json
+D:\manual project\modifyText - Copy\modifyText\bin\Debug\netcoreapp3.1\modifyText.runtimeconfig.json
+D:\manual project\modifyText - Copy\modifyText\bin\Debug\netcoreapp3.1\modifyText.runtimeconfig.dev.json
+D:\manual project\modifyText - Copy\modifyText\bin\Debug\netcoreapp3.1\modifyText.dll
+D:\manual project\modifyText - Copy\modifyText\bin\Debug\netcoreapp3.1\modifyText.pdb
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.csprojAssemblyReference.cache
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.AssemblyInfoInputs.cache
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.AssemblyInfo.cs
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.csproj.CoreCompileInputs.cache
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.dll
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.pdb
+D:\manual project\modifyText - Copy\modifyText\obj\Debug\netcoreapp3.1\modifyText.genruntimeconfig.cache
